@@ -2,8 +2,8 @@
 
 ```js
 module.exports = {
-name: Arman,
-language: Javascript,
+name: "Arman",
+language: "Javascript",
 age: 17
 };
 ```
