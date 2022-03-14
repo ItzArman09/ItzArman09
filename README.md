@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+```js
+module.exports = {
+name: Arman,
+language: Javascript,
+age: 17
+};
+```
+
 <!--
 **ItzArman09/ItzArman09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
