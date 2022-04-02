@@ -1,4 +1,4 @@
-<a href="https://github.com/ItzArman09"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-github-white?style=for-the-badge&logo=github&logoColor=black"/></a>
+<a href="https://github.com/ItzArman09"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-github-white?style=for-the-badge&logo=github&logoColor=black" /> </a>
 ```js
 module.exports = {
 name: "Arman",
